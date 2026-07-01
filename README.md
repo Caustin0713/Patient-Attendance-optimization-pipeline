@@ -5,7 +5,7 @@ Patient Attendance Optimization Pipeline
 👉 [Open my Tableau Dashboard here](https://public.tableau.com/app/profile/christian.austin/viz/PATIENTATTENDANCEOPTIMIZATION/PATIENTATTENDANCEOPTIMIZATION)
 
 📊 Quick Dashboard Look
-![Patient Attendance Dashboard]()
+![Patient Attendance Dashboard](Screenshot 2026-07-01 180504.png)
 
 ### What this project is about
 This project looks into a common problem for regional clinic networks: unfulfilled appointment slots. When patients miss their scheduled blocks, clinicians sit idle, administrative overhead inflates, and community health access is directly restricted. I took a raw dataset of 110,527 electronic health records (EHR) to resolve structural layout anomalies, find out which specific demographics drive the most scheduling friction, and provide data-driven outreach recommendations.
