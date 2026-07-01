@@ -2,7 +2,7 @@ A healthcare operations data analysis project using SQL, Python, and Tableau to 
 
 Patient Attendance Optimization Pipeline
 🔗 Try the Interactive Dashboard
-👉 [Open my Tableau Dashboard here](https://public.tableau.com/views/PATIENTATTENDANCEOPTIMIZATION/PATIENTATTENDANCEOPTIMIZATION?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+👉 [Open my Tableau Dashboard here](https://public.tableau.com/app/profile/christian.austin/viz/PATIENTATTENDANCEOPTIMIZATION/PATIENTATTENDANCEOPTIMIZATION)
 
 📊 Quick Dashboard Look
 ![Patient Attendance Dashboard]()
